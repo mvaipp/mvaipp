@@ -1,8 +1,8 @@
-<h1 align="center">Hey there, I'm Nauza 👋</h1>
+<h1 align="center">Hey there, I'm Ankush 👋</h1>
 
 <p align="center">
   🛠️ Founder of <a href="https://gosyntech.in" target="_blank"><b>GoSyntech</b></a> and <a href="https://shulker.in" target="_blank"><b>Shulker</b></a> <br>
-  🧠 Backend Engineer • System Architect • Open Source Contributor <br>
+  🧠 Backend Engineer • Sysadmin • Open Source Contributor <br>
   💻 I build fast, secure, and powerful infrastructure tools <br>
 </p>
 
